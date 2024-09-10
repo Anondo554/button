@@ -1,0 +1,21 @@
+#main{
+    padding: 100px;
+    height: 400px;
+    background: teal;
+}
+button{
+    padding: 15px 50px;
+    border-radius: none;
+    background: red;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+#box{
+    width: 200px;
+    height: 200px;
+    background: purple; 
+    margin-top: 50px;
+}
